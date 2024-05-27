@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a highly motivated and detail-oriented computer science student with a strong foundation in a diverse range of technical subjects, including web development, machine learning, mobile app development, and more. Currently pursuing a BTech in Computer Science at Presidency University, I am seeking internship opportunities to apply and further develop my skills in a dynamic research environment. 💻
+I am a highly motivated and detail-oriented computer science student with a strong foundation in a diverse range of technical subjects, including web development, machine learning, mobile app development, and more. Currently pursuing a BTech in Computer Science at Presidency University, I am seeking internship opportunities to apply and further develop my skills in a dynamic research environment. 
 
 ## 💻 Technologies & Tools
 
