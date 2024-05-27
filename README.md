@@ -33,12 +33,6 @@ I am a highly motivated and detail-oriented computer science student with a stro
 
 ## 📚 Coursework & Projects
 
-### Notable Subjects
-
-- Basic Concepts of Computer Networks (BCCN)
-- Computer Organization and Architecture (COA)
-- Database Management Systems (DBMS)
-
 ### Projects
 
 - [Portfolio Website](https://rohit-m.netlify.app/) (React, TailwindCSS)
