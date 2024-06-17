@@ -1,90 +1,30 @@
-# Hi there 👋, I'm Rohit Mugalkhod 👨‍💻
+<h1 align="center">Hi 👋, I'm Rohit Mugalkhod</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
-## 🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitm1518&label=Profile%20views&color=0e75b6&style=flat" alt="rohitm1518" /> </p>
 
-I am a highly motivated and detail-oriented computer science student with a strong foundation in a diverse range of technical subjects, including web development, machine learning, mobile app development, and more. Currently pursuing a BTech in Computer Science at Presidency University, I am seeking internship opportunities to apply and further develop my skills in a dynamic research environment. 
+- 🔭 I’m currently working on [Chat Application](https://github.com/RohitM1518/Chat-Application.git)
 
-## 💻 Technologies & Tools
+- 🌱 I’m currently learning **Spring Boot, Angular js**
 
-### Front-end
+- 👨‍💻 All of my projects are available at [https://rohit-m.netlify.app/](https://rohit-m.netlify.app/)
 
-- _Languages:_ JavaScript, CSS, HTML
-- _Frameworks/Libraries:_ React, TailwindCSS
+- 💬 Ask me about **MERN**
 
-### Back-end
+- 📫 How to reach me **rmugalkhod.cse@gmail.com**
 
-- _Languages:_ JavaScript (Node.js)
-- _Frameworks/Libraries:_ Express.js
-- _Databases:_ MongoDB, MySQL
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AxOx2TMC2eVwX_UF7Ry2BEjNFM-5myrm/view?usp=sharing](https://drive.google.com/file/d/1AxOx2TMC2eVwX_UF7Ry2BEjNFM-5myrm/view?usp=sharing)
 
-### Others
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohit-mugalkhod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-mugalkhod" height="30" width="40" /></a>
+</p>
 
-- _Proficient in:_ Java, Python (PyTorch), C, C++
-- _Tools:_ Git
-- _Cloud Services:_ Appwrite
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🛠️ Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitm1518&show_icons=true&locale=en&layout=compact" alt="rohitm1518" /></p>
 
-- **Programming Languages**: Java, Python (PyTorch), JavaScript (Node.js)
-- **Web Development**: React, TailwindCSS, HTML, CSS, Express, MongoDB, MySQL
-- **Machine Learning**: AI and ML Algorithms (SimpliLearn)
-- **Mobile App Development**: Android
-- **Other Skills**: Data Structures and Algorithms, Operating Systems, Computer Networks, Cryptography and Network Security, IoT Boards
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitm1518&show_icons=true&locale=en" alt="rohitm1518" /></p>
 
-## 📚 Coursework & Projects
-
-### Projects
-
-- [Portfolio Website](https://rohit-m.netlify.app/) (React, TailwindCSS)
-- [Blog Website](https://blog-news-15.netlify.app/) (React, Appwrite, TailwindCSS)
-- [Backend Project](https://github.com/RohitM1518/Youtube-Clone-Backend-Project) (Express, MongoDB, Mongoose)
-- [Feedback Collection System](https://github.com/RohitM1518/Feedback-Project) (React, Express, MongoDB, Mongoose)
-- Home Automation (Arduino, Sensors, C)
-- Cloud Storage (Raspberry Pi, C++)
-- Stock Market Prediction (SVC, Logistic Regression, XGBClassifier, Python)
-
-## 🌱 Currently Learning
-
-- Spring Boot
-- Advanced algorithms and data structures
-
-## 🎓 Education
-
-- BTech in Computer Science, Presidency University (2021 - Present, Expected Jul 2025)
-- CGPA: 9.55 (up to 5th semester)
-
-## 📜 Certifications
-
-- Machine Learning Algorithms (SimpliLearn)
-- Introduction and Programming with IoT Boards
-
-## 🎯 Hobbies & Interests
-
-- Reading Books
-- Listening to Podcasts
-- Working Out
-
-## 🌟 Achievements
-
-- Consistently recognized as a top performer in class projects and assignments.
-
-## 🔥 Fun Fact
-
-I am multilingual with proficiency in English and Kannada, and a basic understanding of Hindi.
-
-## 🥅 Goals
-
-- To contribute to open-source projects
-- To build innovative solutions that can make a difference
-- To continuously learn and grow in the field of technology
-
-## 📫 Contact
-
-- Email: rmugalkhod.cse@gmail.com
-- Phone: 80739-71460
-- Location: Mahalingpur, Karnataka, India 587312
-- LinkedIn: [Rohit Mugalkhod](https://www.linkedin.com/in/rohit-mugalkhod)
-
----
-
-Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitm1518&" alt="rohitm1518" /></p>
