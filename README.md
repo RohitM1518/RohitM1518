@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular js**
 
-- 👨‍💻 All of my projects are available at [https://rohit-m.netlify.app/](https://rohitm.tech/)
+- 👨‍💻 All of my projects are available at [https://rohitm.tech/](https://rohitm.tech/)
 
 - 💬 Ask me about **MERN**
 
